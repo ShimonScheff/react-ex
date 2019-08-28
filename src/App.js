@@ -26,8 +26,8 @@ function App() {
           <div>text</div>
           <div>text</div>
           <div>text</div>
-          <div>text</div>
-          <div>text</div>
+          <div>text1</div>
+          <div>text2</div>
           <div>text</div>
           <div>text</div>
           <div>text</div>
