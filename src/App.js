@@ -28,7 +28,6 @@ function App() {
           <div>text</div>
           <div>text1</div>
           <div>text2</div>
-          <div>text3</div>
           <div>text</div>
           <div>textssd</div>
           <div>text</div>
